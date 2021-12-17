@@ -1,0 +1,10 @@
+Player starts at a cave.
+User presses left arrow key and the player moves left to reach a dead end cave containing a ruby.
+User presses right arrow key and the player moves right to reach a cave containing an arrow and a ruby.
+User presses down arrow key and the player moves down to reach a cave containing an arrow and a diamond.
+User presses the right arrow key and the player moves right to reach a dead end cave.
+User presses left arrow key, up and up arrow key to move the player to a cave containing an arrow and a sapphire.
+User presses left arrow key to move the player to a cave containing an arrow and a sapphire.
+User presses the down arrow key to reach a cave containing a ruby.
+User presses the up, right and right arrow key to move to a cave containing stench.
+User presses the left arrow key and stays there.
